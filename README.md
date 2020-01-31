@@ -1,1 +1,2 @@
 # amin
+Studying EE
